@@ -1,0 +1,18 @@
+TweetWX package changes
+---
+
+1.0.0  2010-04-14  Joe Chung
+* Initial Release
+
+1.0.0  2010-06-11  Ken True
+* initial release of TweetWX package incorporating Joe's OAuth Examples using Twitter for use with
+* Weather-Display, WD/AJAX/PHP template websites
+
+1.01   2013-06-13  Ken True
+* adapted TweetWX-globals.php for Twitter API V1.1 using SSL
+
+1.02   2014-01-18  Ken True
+* fixes for Twitter OAuth setup using SSL only
+
+1.03   27-May-2014 Ken True
+* fixed TweetWX-setup1.php Twitter link for $oauth_verifier to use https/SSL
