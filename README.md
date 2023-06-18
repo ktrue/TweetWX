@@ -1,5 +1,12 @@
 # TweetWX - post weather updates to Twitter using OAuth
 
+# This script is deprecated -- do not install
+
+With changes to Twitter API terms/conditions, this script no longer works.  The built-in APPid for TweetWX was suspended on 13-Jun-2023 and cannot be reactivated.  If you had installed this, I suggest you discontinue the cron jobs using it as it will no
+longer function. Sorry!
+
+# do not install
+
 This set of scripts can be used to post status updates to your Twitter account for current weather conditions, weather forecasts, or advisories. It is currently set up to work with WeatherDisplay and the Saratoga templates, and the NOAA NWS forecast service.  
 The script uses [OAuth](http://dev.twitter.com/pages/auth#intro) as all Twitter applications must use OAuth for authentication.
 
